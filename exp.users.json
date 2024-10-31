@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6723316522ce625ed03d3366"
+  },
+  "email": "user3@example.com",
+  "password": "$2a$10$6Kiyg5hGH5hYMkiEJS.9jOygx3/FvMsorU4heXsQJAR.fs05R0cNu",
+  "notificationsEnabled": false,
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6723316e22ce625ed03d3368"
+  },
+  "email": "user2@example.com",
+  "password": "$2a$10$Vtzgm1tauoHe8FttWP2P1eEalhTNjtjO/GjmCBq51GWxn55dnhDT2",
+  "notificationsEnabled": false,
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6723317322ce625ed03d336a"
+  },
+  "email": "user@example.com",
+  "password": "$2a$10$mrj0JfCqOp.Fs9NHPoTND.fbWKf0s1awDH028t80NDfDzkLq5bf7G",
+  "notificationsEnabled": false,
+  "role": "user",
+  "__v": 0
+}]
